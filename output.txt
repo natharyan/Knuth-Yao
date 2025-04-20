@@ -1,0 +1,54 @@
+Height of each label:
+[3, 2, 3, 2, 2]
+
+Depth of the tree: 3
+
+Empty tree constructed:
+Root: null
+    L--- null
+        L--- null
+            L--- null
+            R--- null
+        R--- null
+            L--- null
+            R--- null
+    R--- null
+        L--- null
+            L--- null
+            R--- null
+        R--- null
+            L--- null
+            R--- null
+
+Labels added:
+Root: null
+    L--- null
+        L--- null
+            L--- 1
+            R--- 3
+        R--- 2
+    R--- null
+        L--- 4
+        R--- 5
+
+Simulation of P_X using a fair coin flip and the total tree:
+(label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 3, probability: 0.125), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 3, probability: 0.125), (label: 3, probability: 0.125), (label: 1, probability: 0.125), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 1, probability: 0.125), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 5, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 1, probability: 0.125), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 1, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 3, probability: 0.125), (label: 3, probability: 0.125), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 1, probability: 0.125), (label: 3, probability: 0.125), (label: 3, probability: 0.125), (label: 3, probability: 0.125), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 3, probability: 0.125), (label: 4, probability: 0.25), (label: 1, probability: 0.125), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 4, probability: 0.25), (label: 2, probability: 0.25), (label: 4, probability: 0.25), (label: 5, probability: 0.25), (label: 4, probability: 0.25), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 3, probability: 0.125), (label: 5, probability: 0.25), (label: 2, probability: 0.25), (label: 1, probability: 0.125), (label: 2, probability: 0.25), 
+Label counts:
+{1: 24, 2: 57, 3: 28, 4: 49, 5: 42}
+
+Sample probabilities:
+{1: 0.12, 2: 0.285, 3: 0.14, 4: 0.245, 5: 0.21}
+
+Source probabilities:
+{1: 0.125, 2: 0.25, 3: 0.125, 4: 0.25, 5: 0.25}
+
+C:
+{(5, '11'), (2, '01'), (1, '000'), (3, '001'), (4, '10')}
+
+Codewords:
+(4, '10'), (2, '01'), (2, '01'), (5, '11'), (2, '01'), (5, '11'), (5, '11'), (4, '10'), (3, '001'), (5, '11'), (2, '01'), (4, '10'), (3, '001'), (2, '01'), (2, '01'), (5, '11'), (2, '01'), (2, '01'), (5, '11'), (2, '01'), (5, '11'), (4, '10'), (1, '000'), (4, '10'), (4, '10'), (5, '11'), (3, '001'), (2, '01'), (5, '11'), (2, '01'), (5, '11'), (5, '11'), (4, '10'), (1, '000'), (3, '001'), (2, '01'), (4, '10'), (2, '01'), (2, '01'), (2, '01'), (2, '01'), (2, '01'), (2, '01'), (5, '11'), (3, '001'), (4, '10'), (1, '000'), (2, '01'), (4, '10'), (1, '000'), (2, '01'), (1, '000'), (3, '001'), (3, '001'), (1, '000'), (4, '10'), (4, '10'), (2, '01'), (5, '11'), (4, '10'), (1, '000'), (3, '001'), (2, '01'), (5, '11'), (4, '10'), (3, '001'), (2, '01'), (4, '10'), (5, '11'), (4, '10'), (1, '000'), (1, '000'), (5, '11'), (4, '10'), (2, '01'), (4, '10'), (4, '10'), (4, '10'), (5, '11'), (1, '000'), (2, '01'), (2, '01'), (2, '01'), (2, '01'), (4, '10'), (1, '000'), (5, '11'), (5, '11'), (2, '01'), (3, '001'), (2, '01'), (4, '10'), (4, '10'), (5, '11'), (2, '01'), (2, '01'), (1, '000'), (4, '10'), (5, '11'), (1, '000'), (1, '000'), (2, '01'), (5, '11'), (4, '10'), (5, '11'), (3, '001'), (2, '01'), (4, '10'), (2, '01'), (4, '10'), (5, '11'), (2, '01'), (4, '10'), (4, '10'), (3, '001'), (4, '10'), (5, '11'), (3, '001'), (5, '11'), (2, '01'), (2, '01'), (1, '000'), (1, '000'), (5, '11'), (2, '01'), (2, '01'), (4, '10'), (1, '000'), (5, '11'), (4, '10'), (5, '11'), (3, '001'), (3, '001'), (4, '10'), (4, '10'), (4, '10'), (4, '10'), (1, '000'), (5, '11'), (2, '01'), (3, '001'), (5, '11'), (2, '01'), (4, '10'), (3, '001'), (2, '01'), (3, '001'), (5, '11'), (4, '10'), (4, '10'), (5, '11'), (2, '01'), (4, '10'), (3, '001'), (2, '01'), (4, '10'), (3, '001'), (3, '001'), (5, '11'), (5, '11'), (4, '10'), (2, '01'), (2, '01'), (1, '000'), (2, '01'), (5, '11'), (4, '10'), (5, '11'), (1, '000'), (3, '001'), (3, '001'), (3, '001'), (2, '01'), (2, '01'), (3, '001'), (4, '10'), (1, '000'), (4, '10'), (2, '01'), (3, '001'), (5, '11'), (1, '000'), (2, '01'), (4, '10'), (4, '10'), (2, '01'), (4, '10'), (5, '11'), (4, '10'), (3, '001'), (5, '11'), (5, '11'), (2, '01'), (2, '01'), (1, '000'), (3, '001'), (5, '11'), (2, '01'), (1, '000'), (2, '01'), 
+Average length of the code:
+2.2502667759714043
+
+Entropy of the source:
+2.25
